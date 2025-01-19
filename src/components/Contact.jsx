@@ -34,9 +34,7 @@ function Contact() {
         <span>Please fill out the form below to contact me</span>
         <div className="flex flex-col items-center justify-center mt-5">
           <form
-            // action="https://getform.io/f/bkkkqxwb"
-            // method="POST"
-            className="bg-slate-300 w-90 px-8 py-6 rounded-2xl"
+            className="bg-slate-300 w-70 md:w-96 px-8 py-6 rounded-2xl"
             onSubmit={handleSubmit(onSubmit)}
           >
             <h1 className="text-xl font-semibold mb-4">Send Your message</h1>
