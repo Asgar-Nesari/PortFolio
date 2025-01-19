@@ -1,6 +1,6 @@
 import React from "react";
 import VScode from "../../public/vs.jpg"
-import NetBean from "../../public/netBeans.png"
+import NetBean from "../../public/netbeans.png"
 import SourceTree from "../../public/sourcetree.jpeg"
 import Postman from "../../public/Postman.png"
 
