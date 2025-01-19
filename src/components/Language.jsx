@@ -98,7 +98,7 @@ function Language() {
         <div>
           <h1 className="text-3xl font-bold mb-5">Languages</h1>
           <h1 className="font-semibold">Frontend :</h1>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-7 my-3">
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-7 my-3">
             {FrontEnd.map(({ id, logo, name }) => (
               <div
                 key={id}
@@ -111,7 +111,7 @@ function Language() {
           </div>
           <br />
           <h1 className="font-semibold">Backend</h1>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-7 my-3">
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-7 my-3">
             {Backend.map(({ id, logo, name }) => (
               <div
                 key={id}
@@ -124,7 +124,7 @@ function Language() {
           </div>
           <br />
           <h1 className="font-semibold">DataBase</h1>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-7 my-3">
+          <div className="grid grid-cols-1 md:grid-cols-4 gap-7 my-3">
             {Database.map(({ id, logo, name }) => (
               <div
                 key={id}
