@@ -40,7 +40,7 @@ function Links() {
             </a>
 
             <a
-              href="https://www.instagram.com/asgar_nesari?utm_source=qr&igsh=a2VkbjU0bnNlcmhv"
+              href="https://www.instagram.com/accounts/login/?hl=en"
               target="_blank"
             >
               <div className="flex flex-col items-center justify-center border-[2px] rounded-full md:w-[200px] md:h-[200px] p-1 cursor-pointer hover:scale-110 duration-300 shadow-lg">
